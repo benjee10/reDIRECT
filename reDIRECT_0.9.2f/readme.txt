@@ -1,9 +1,9 @@
-reDIRECT v0.9.2e. 
+reDIRECT v0.9.2f. 
 PHASE TWO
 
 KSP version: 1.4.1. 
 
-Release Date: 11-04-2018.
+Release Date: 12-04-2018.
 
 Created by BENJEE10. 
 
@@ -16,6 +16,9 @@ INSTALLATION:
 Simply drag and drop the "reDIRECT" folder into your KSP gameData directory. 
 
 CHANGELOG:
+
+0.9.2f. ALPHA TEST RELEASE OF PHASE II.
+	- Fixed compatibility with KSP 1.3.1 (no texture or mesh switching). 
 
 0.9.2d. ALPHA TEST RELEASE OF PHASE II.
 	- Improved textures and materials for Orion SM parts.
