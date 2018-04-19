@@ -21,6 +21,12 @@ B9PartSwitch and Community Resource Pack are bundled with this mod. You may need
 
 CHANGELOG:
 
+0.9.31. Hotfix.
+
+	- Fixed model for inline STS tank not appearing in game correctly. 
+	- Added placeholder IVA to Orion to allow crew portraits. 
+	- Fixed incorrect gimbal transform on KL-10-B-II Engine.
+
 0.9.3. Official release of Phase II. 
 	- Rebalanced all tanks & engines to use LqdHydrogen/Ox. 
 	- Migrated all mesh/texture switch functions to B9PartSwitch for 1.3.1. compatibility (and for more features in the future). 
