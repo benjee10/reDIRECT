@@ -1,9 +1,9 @@
-reDIRECT v0.9.3. 
+reDIRECT v0.9.4a. 
 PHASE TWO
 
 KSP version: 1.4.2 (1.3.1+ supported)
 
-Release Date: 19-04-2018.
+Release Date: 22-04-2018.
 
 Created by BENJEE10. 
 
@@ -21,8 +21,10 @@ B9PartSwitch and Community Resource Pack are bundled with this mod. You may need
 
 CHANGELOG:
 
-0.9.31. Hotfix.
+0.9.4a. DEV RELEASE OF PHASE III. 
+	- Added K-2X "Jackdaw" cryogenic rocket engine.
 
+0.9.31. Hotfix.
 	- Fixed model for inline STS tank not appearing in game correctly. 
 	- Added placeholder IVA to Orion to allow crew portraits. 
 	- Fixed incorrect gimbal transform on KL-10-B-II Engine.
