@@ -1,9 +1,9 @@
-reDIRECT v0.9.4a. 
+reDIRECT v0.9.4b. 
 PHASE TWO
 
 KSP version: 1.4.2 (1.3.1+ supported)
 
-Release Date: 22-04-2018.
+Release Date: 09-05-2018.
 
 Created by BENJEE10. 
 
@@ -20,6 +20,15 @@ DEPENDECIES:
 B9PartSwitch and Community Resource Pack are bundled with this mod. You may need to update B9PartSwitch for the mesh switching features to function in newer versions of Kerbal Space Program. 
 
 CHANGELOG:
+
+0.9.4b. DEV RELEASE OF ARES I. 
+	- Added Ares I parts:
+		- Small & Large LH2/Ox Tanks. 
+		- 3.125m thrust plate. 
+		- 3.125m->2.2m adapter. 
+		- 3.125m avionics ring. 
+		- 3.125m stack decoupler (with built in RCS). 
+		- 3.125m fairing base. 
 
 0.9.4a. DEV RELEASE OF PHASE III. 
 	- Added K-2X "Jackdaw" cryogenic rocket engine.
