@@ -1,9 +1,9 @@
-reDIRECT v0.9.6b. 
+reDIRECT v0.9.6c. 
 PHASE THREE
 
 KSP version: 1.6.1 (1.3.1+ supported)
 
-Release Date: 13-01-2019.
+Release Date: 14-01-2019.
 
 Created by BENJEE10. 
 
@@ -39,6 +39,9 @@ Craft files should be put in the Kerbal Space Program/Ships/VAB/ directory, or i
 PLEASE NOTE: these craft will be generally overpowered for a stock-sized Kerbin system. For the most realistic balance I recommend using a 2.4x or 3.2x solar system rescale. 
 
 CHANGELOG:
+
+0.9.6c. EXPERIMENTAL RELEASE
+	- Complete rebalance of all LH2/OX tanks, engines, & SRBs. 
 
 0.9.6b. EXPERIMENTAL RELEASE
 	- Added SLS ICPS part. 
