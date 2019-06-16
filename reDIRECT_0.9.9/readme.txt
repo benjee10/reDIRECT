@@ -1,9 +1,8 @@
-reDIRECT v0.9.8. 
-DEV RELEASE
+reDIRECT v0.9.9. 
 
-KSP version: 1.7.2
+KSP version: 1.7.X
 
-Release Date: 07-05-2019.
+Release Date: 16-06-2019.
 
 Created by BENJEE10. 
 
@@ -13,7 +12,8 @@ This release includes parts required for a Shuttle stack and the Jupiter family 
 
 INSTALLATION:
 
-Simply drag and drop the "reDIRECT" folder into your KSP gameData directory. 
+Simply drag and drop the contents of the reDIRECT_0.9.9/GameData/ folder into your KSP gameData directory. You should remove prior instances of the included mods to ensure a clean installation. 
+Craft files should be placed in the /Ships/VAB/ folder.
 
 DEPENDECIES:
 
@@ -23,7 +23,6 @@ PLEASE NOTE: these craft will be generally overpowered for a stock-sized Kerbin 
 
 KNOWN ISSUES:
 
- - Having Cryogenic Engines installed results in incorrect LH2/LOX values for all tank parts. 
  - Balance pass required on 2-segment SRB.
  - New SLS parts lack texture variants to match STS-1 white foam. 
  - Ares I parts lack texture variants to match Ares I-X. 
@@ -32,6 +31,11 @@ KNOWN ISSUES:
  - All parts in dire need of specular map overhaul. 
 
 CHANGELOG:
+
+0.9.9. MAJOR RELEASE. Warning: may break existing craft files. 
+	- Re-bundled craft files.
+	- Fixed tags for multiple parts. 
+	- Fixed B9PartSwitch errors. 
 
 0.9.8. DEV RELEASE
 	- Improved normal maps across all parts.
